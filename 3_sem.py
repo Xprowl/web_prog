@@ -55,3 +55,14 @@
 
 # a = int(input("Введите число: "))
 # print("да" if a % 7 == 0 and a % 23 == 0 else "нет")
+
+#x, y = map(int, input("Введите координаты X и Y: ").split())
+
+#if x > 0 and y > 0:
+#    print(1)
+#elif x < 0 and y > 0:
+#    print(2)
+#elif x < 0 and y < 0:
+#    print(3)
+#else:
+#    print(4)
