@@ -49,3 +49,9 @@
 #for i in range(1, numb+1):
 #    if i%2 == 0:
 #        print(i,end=' ')
+
+
+# Домашнее задание
+
+# a = int(input("Введите число: "))
+# print("да" if a % 7 == 0 and a % 23 == 0 else "нет")
