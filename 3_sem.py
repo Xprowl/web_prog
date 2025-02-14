@@ -69,3 +69,6 @@
 
 #num = int(input("Введите число от 10 до 99: "))
 #print(max(map(int, str(num))))
+
+#num = input("Введите натуральное число: ")
+#print(", ".join(num))
