@@ -66,3 +66,6 @@
 #    print(3)
 #else:
 #    print(4)
+
+#num = int(input("Введите число от 10 до 99: "))
+#print(max(map(int, str(num))))
