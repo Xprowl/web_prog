@@ -63,5 +63,45 @@
 
 
 
+# import random
 
+# def get_random_array(size, crit):
+#     arr = random.choices(range(crit), k=size)
+#     return arr
 
+# def sqrt(number):
+#     return int(number**0.5)
+
+# def is_prime(num):
+#     if num in (0,1,2,3):
+#         return True
+#     else:
+#         if num % 2 == 0:
+#             return False
+#         else:
+#             for i in range(2, sqrt(num)+1, 2):
+#                 if num % i == 0:
+#                     return False
+#                 else: 
+#                     return True
+                
+# arr = get_random_array(10,10)
+# print(arr)
+# sum = 0
+# for i in arr:
+#     flag = bool(is_prime(i))
+#     if flag==True:
+#         sum+=1
+# print ("Кол-во простых чисел в массиве: ", sum)
+
+# import random
+
+# def get_random_array(size, crit):
+#     arr = random.choices(range(crit), k=size)
+#     return arr
+                
+# arr = get_random_array(10,10)
+# print(arr)
+# for i in range(len(arr)):
+#     arr[i] *= -1
+# print(arr)
